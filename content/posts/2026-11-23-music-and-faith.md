@@ -3,7 +3,7 @@ title: "ਸੰਗੀਤ ਅਤੇ ਵਿਸ਼ਵਾਸ"
 date: 2026-11-23
 slug: music-and-faith
 draft: false
-shareImage: /images/music-faith/sonreal.jpg
+shareImage: /images/music-faith/chandansinghmusics.jpg
 ---
 
 ਮੈਂ ਇੰਸਟਾਗ੍ਰਾਮ 'ਤੇ ਸੰਗੀਤਕਾਰਾਂ ਨੂੰ ਸੁਣਨ ਵਿੱਚ ਬਹੁਤ ਸਮਾਂ ਬਿਤਾਉਂਦਾ ਹਾਂ। ਹਾਲ ਹੀ ਵਿੱਚ ਮੈਂ ਜਿਨ੍ਹਾਂ ਨੂੰ ਸੁਣ ਰਿਹਾ ਹਾਂ, ਉਨ੍ਹਾਂ ਵਿੱਚੋਂ ਕੁਝ ਇਹ ਹਨ।
@@ -14,74 +14,62 @@ shareImage: /images/music-faith/sonreal.jpg
 
 ਉਹ ਸਾਰੇ ਭਜਨ ਨਹੀਂ ਗਾ ਰਹੇ। ਜ਼ਿਆਦਾਤਰ ਸਿਰਫ਼ ਜ਼ਿੰਦਗੀ ਬਾਰੇ ਗਾ ਰਹੇ ਹਨ, ਅਤੇ ਵਿਸ਼ਵਾਸ ਉਸਦਾ ਹਿੱਸਾ ਹੈ। ਮੈਨੂੰ ਉਨ੍ਹਾਂ ਵਿੱਚ ਇਹੀ ਪਸੰਦ ਹੈ। ਗੀਤ ਇੰਸਟਾਗ੍ਰਾਮ 'ਤੇ ਵੇਖਣ ਲਈ ਕਾਰਡ 'ਤੇ ਟੈਪ ਕਰੋ।
 
-ਮੈਂ SonReal ਦੇ ਨਵੇਂ ਗੀਤ 'ਤੇ ਇੱਕ ਪ੍ਰਤੀਕਿਰਿਆ ਵੀਡੀਓ ਵੀ ਬਣਾਇਆ ਹੈ। ਤੁਸੀਂ ਇਸਨੂੰ ਇੱਥੇ ਵੇਖ ਸਕਦੇ ਹੋ:
-
-[SonReal ਦੇ ਨਵੇਂ ਵੀਡੀਓ 'ਤੇ ਮੇਰੀ ਪ੍ਰਤੀਕਿਰਿਆ](https://www.youtube.com/shorts/wePjZMr6beE)
+ਇਹ ਗੀਤ ਪੰਜਾਬੀ ਵਿੱਚ ਹਨ। ਇਹ ਪੰਜਾਬੀ ਵਿੱਚ ਗਾਉਣ ਵਾਲੇ ਸੰਗੀਤਕਾਰ ਹਨ — ਕੋਈ ਭਜਨ ਗਾ ਰਿਹਾ ਹੈ, ਕੋਈ ਜ਼ਿੰਦਗੀ ਬਾਰੇ ਗਾ ਰਿਹਾ ਹੈ, ਅਤੇ ਵਿਸ਼ਵਾਸ ਉਸਦਾ ਹਿੱਸਾ ਹੈ।
 
 <div class="ig-grid">
-<a class="ig-card" href="https://www.instagram.com/reel/DgBgmKwB84s/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/sonreal.jpg" alt="SonReal" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">SonReal</span>
-<span class="ig-card__note">ਚੰਗਾ ਸੰਗੀਤ ਸੁਣਦਿਆਂ ਹੀ ਪਛਾਣਨ ਬਾਰੇ ਇੱਕ ਮਜ਼ੇਦਾਰ, ਉਮੀਦ ਭਰਿਆ ਰੈਪ। ਕਿਤਾਬ ਨੂੰ ਉਸਦੇ ਕਵਰ ਤੋਂ ਨਾ ਪਰਖੋ।</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/Da5X7tbBjeS/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/chandansinghmusics.jpg" alt="Chandan Singh" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Chandan Singh</span>
+<span class="ig-card__note">ਪੰਜਾਬੀ ਵਿੱਚ ਮਸੀਹੀ ਗੀਤ — “ਮੌਜਾਂ ਲੱਗ ਗਈਆਂ”।</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgDnpYFAUjr/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/tamzene.jpg" alt="Tamzene" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Tamzene</span>
-<span class="ig-card__note">"ਮੈਂ ਤੁਹਾਡੇ ਲਈ ਇੱਕ ਸੀਟ ਰੱਖਾਂਗਾ।" ਇੱਕ ਨਰਮ ਗੀਤ, ਅਤੇ ਇੱਕ ਖਾਲੀ ਕੁਰਸੀ।</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DM5lQY_zGeF/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/worshipper_kajal_masih.jpg" alt="Kajal Masih" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Kajal Masih</span>
+<span class="ig-card__note">ਪੰਜਾਬੀ ਵਿੱਚ ਯਿਸੂ ਦੀ ਉਸਤਤਿ ਦਾ ਗੀਤ।</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df5X6L3K-3W/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/lilyfittsmusic.jpg" alt="Lily Fitts" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Lily Fitts</span>
-<span class="ig-card__note">ਉਸਦਾ ਗੀਤ "Notice" ਅੰਤ ਵਿੱਚ ਆ ਗਿਆ ਹੈ — ਉਸਨੇ ਪਹਿਲੀ ਵਾਰ ਵਜਾਏ ਤੋਂ ਇੱਕ ਸਾਲ ਤੋਂ ਵੱਧ ਸਮਾਂ ਬੀਤ ਗਿਆ।</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DZsenSMSRI_/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/worshiper_akash_masih.jpg" alt="Akash Masih" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Akash Masih</span>
+<span class="ig-card__note">ਪੰਜਾਬੀ ਵਿੱਚ ਮਸੀਹਾ ਦਾ ਸ਼ੁਕਰ — ਹਾਰਮੋਨੀਅਮ ਨਾਲ ਉਸਤਤਿ।</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgE-ybeI6ko/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/fatheringstarlings.jpg" alt="Fathering Starlings" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Fathering Starlings</span>
-<span class="ig-card__note">"Your Heart in the Fire" — ਉੱਤਰ ਤੋਂ ਲੋ-ਫਾਈ ਫੋਕ, ਇਮਾਨਦਾਰ, ਤਜਰਬੇਕਾਰ, ਕੱਚਾ।</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DLyXevuTTE6/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/dilpreet_masih12.jpg" alt="Dilpreet Masih" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Dilpreet Masih</span>
+<span class="ig-card__note">ਪੰਜਾਬੀ ਵਿੱਚ ਮਸੀਹੀ ਭਜਨ — “ਮੇਰੇ ਉਤੇ ਨਜ਼ਰੀ ਦੇ ਇੰਨੇ ਉਪਕਾਰ ਨੇ”।</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DfkSMZhpium/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/naterosemusic.jpg" alt="Nate Rose" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Nate Rose</span>
-<span class="ig-card__note">ਪਿਛਲੇ ਸਾਲ ਉਸਨੇ ਆਪਣੀ ਜ਼ਿੰਦਗੀ ਪਰਮੇਸ਼ੁਰ ਨੂੰ ਦੇ ਦਿੱਤੀ। ਹੁਣ ਉਹ ਆਪਣੀ ਕਹਾਣੀ ਦੱਸਣਾ ਚਾਹੁੰਦਾ ਹੈ, ਅਤੇ ਉਸੇ ਦੌਰਾਨ ਉਸਦੀ ਉਸਤਤ ਕਰਨਾ ਚਾਹੁੰਦਾ ਹੈ।</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DQmkIdGEoqY/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/satnambhattiofficial.jpg" alt="Satnam Bhatti" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Satnam Bhatti</span>
+<span class="ig-card__note">ਪੰਜਾਬੀ ਵਿੱਚ ਭਗਤੀ ਗਾਇਨ — ਔਰਤਾਂ ਦੀ ਉਸਤਤਿ ਟੋਲੀ।</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/p/DgBMyeNkkyO/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/ostonmusic.jpg" alt="OSTON" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">OSTON</span>
-<span class="ig-card__note">ਉਸਦਾ ਨਵਾਂ ਗੀਤ "Not Alone", ਅਤੇ ਸਾਨ ਫ਼ਰਾਂਸਿਸਕੋ ਵਿੱਚ ਇੱਕ ਕਮਰਾ — ਹਰ ਸ਼ਬਦ ਗਾ ਰਿਹਾ ਹੈ।</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DLvAHy6TPQN/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/harv_ji.jpg" alt="Harv" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Harv</span>
+<span class="ig-card__note">ਪੰਜਾਬੀ ਵਿੱਚ ਯਿਸੂ ਮਸੀਹ ਦੀ ਵਫ਼ਾਦਾਰੀ ਦਾ ਗੀਤ।</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df1qtokoyBh/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/kenta_dedachi.jpg" alt="Kenta Dedachi" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Kenta Dedachi</span>
-<span class="ig-card__note">"Secret Fort" — ਚਰਚ ਦੇ ਪਿੱਛੇ ਬਚਪਨ ਦੇ ਦਿਨ, ਸ਼ਾਮ ਦੀਆਂ ਘੰਟੀਆਂ, ਚੰਗੇ ਦੋਸਤ ਅਤੇ ਕਲਪਨਾ ਦੀਆਂ ਦੁਨੀਆਂਵਾਂ।</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DOfjYFvEsCQ/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/sukh_masih_507.jpg" alt="Sukh Masih" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Sukh Masih</span>
+<span class="ig-card__note">ਪੰਜਾਬੀ ਵਿੱਚ ਯਿਸੂ 'ਤੇ ਵਿਸ਼ਵਾਸ ਦਾ ਗੀਤ।</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DfCRnSiPXa5/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/jeffarrandale.jpg" alt="Jeff Arrandale" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Jeff Arrandale</span>
-<span class="ig-card__note">ਲੂਕਾ 15 ਤੋਂ ਇੱਕ ਨਵਾਂ ਗੀਤ — ਉਡਾਊ ਪੁੱਤਰ। "Let Me Go".</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DIZD9RAyKlB/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/masihlife123.jpg" alt="Lovejeet Masih" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Lovejeet Masih</span>
+<span class="ig-card__note">ਪੰਜਾਬੀ ਵਿੱਚ ਮਸੀਹੀ ਲੋਕ-ਗੀਤ।</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df71X0lzZsN/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/allison_eide.jpg" alt="Allison Eide" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Allison Eide</span>
-<span class="ig-card__note">"ਯਿਸੂ ਦਿਆਲੂ ਹੈ। ਦੌਰਾ ਇੱਕ ਤੋਹਫ਼ਾ ਹੈ।" ਉਸਦੇ ਗੀਤ, ਘਰ ਵਾਪਸ ਵਜਾਏ ਗਏ।</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DNXc1iJMBYj/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/sameerzeenas_official.jpg" alt="Sameer & Zeenas" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Sameer & Zeenas</span>
+<span class="ig-card__note">ਪੰਜਾਬੀ ਵਿੱਚ ਮਸੀਹੀ ਲੋਕ-ਧੁਨ — “ਜੀਓਂ ਦੀਆਂ ਗੱਲਾਂ”।</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgD31mXBDcn/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/rachelpurcellmusic.jpg" alt="Rachel Purcell" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Rachel Purcell</span>
-<span class="ig-card__note">ਉਸਦਾ ਗੀਤ "keep going" — ਸੁਪਨੇ ਵਰਗਾ ਰੈਟਰੋ ਯਿਸੂ ਸੰਗੀਤ, ਹੁਣ ਆ ਗਿਆ ਹੈ।</span></span>
-</a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df9vziqCJtC/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/haleyjonesofficial.jpg" alt="Haley Jones" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Haley Jones</span>
-<span class="ig-card__note">"ਹਰ ਕੋਈ ਕਿਸੇ ਨਾ ਕਿਸੇ ਨੂੰ ਜਾਣਦਾ ਹੈ ਜਿਸਨੂੰ ਯਿਸੂ ਬਾਰੇ ਸੁਣਨ ਦੀ ਲੋੜ ਹੈ।"</span></span>
-</a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgAmATaizM0/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/gracegrabermusic.jpg" alt="Grace Graber" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Grace Graber</span>
-<span class="ig-card__note">ਉਸਦੀ ਮਾਨਸਿਕ ਸਿਹਤ ਦੀ ਯਾਤਰਾ ਬਾਰੇ ਗੀਤ। ਅਤੇ ਉਹ ਪੌਪ ਪੰਕ ਵੀ ਹਨ।</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DRjlfl9Ed20/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/mukha_masih_.jpg" alt="Mukha Masih" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Mukha Masih</span>
+<span class="ig-card__note">ਪੰਜਾਬੀ ਵਿੱਚ ਯਿਸੂ ਦੀ ਬੰਦਗੀ ਦਾ ਗੀਤ।</span></span>
 </a>
 </div>
 
-ਮੈਨੂੰ ਹੈਰਾਨੀ ਹੈ ਕਿ ਕਿਹੜੇ ਗੀਤਾਂ ਨੇ ਤੁਹਾਨੂੰ ਸੰਭਾਲਿਆ ਹੈ। ਜਦੋਂ ਸ਼ਬਦ ਖ਼ਤਮ ਹੋ ਗਏ, ਤਾਂ ਕਿਹੜੇ ਗੀਤ ਨੇ ਤੁਹਾਡੇ ਵਿਸ਼ਵਾਸ ਨੂੰ ਫੜਿਆ ਰੱਖਿਆ? ਅਤੇ ਇਨ੍ਹਾਂ ਬਾਰ੍ਹਾਂ ਵਿੱਚੋਂ ਤੁਸੀਂ ਪਹਿਲਾਂ ਕਿਹੜਾ ਸੁਣੋਗੇ?
+ਮੈਨੂੰ ਹੈਰਾਨੀ ਹੈ ਕਿ ਕਿਹੜੇ ਗੀਤਾਂ ਨੇ ਤੁਹਾਨੂੰ ਸੰਭਾਲਿਆ ਹੈ। ਜਦੋਂ ਸ਼ਬਦ ਖ਼ਤਮ ਹੋ ਗਏ, ਤਾਂ ਕਿਹੜੇ ਗੀਤ ਨੇ ਤੁਹਾਡੇ ਵਿਸ਼ਵਾਸ ਨੂੰ ਫੜਿਆ ਰੱਖਿਆ? ਅਤੇ ਇਨ੍ਹਾਂ ਦਸਾਂ ਵਿੱਚੋਂ ਤੁਸੀਂ ਪਹਿਲਾਂ ਕਿਹੜਾ ਸੁਣੋਗੇ?
 
 ਮੈਨੂੰ ਦੱਸੋ ਤੁਸੀਂ ਕੀ ਸੁਣ ਰਹੇ ਹੋ। ਮੈਂ ਹਮੇਸ਼ਾ ਨਵੇਂ ਗੀਤਾਂ ਦੀ ਭਾਲ ਵਿੱਚ ਹੁੰਦਾ ਹਾਂ।
 
