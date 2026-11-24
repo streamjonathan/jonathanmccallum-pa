@@ -42,11 +42,6 @@ shareImage: /images/music-faith/chandansinghmusics.jpg
 <span class="ig-card__text"><span class="ig-card__name">Satnam Bhatti</span>
 <span class="ig-card__note">ਪੰਜਾਬੀ ਵਿੱਚ ਭਗਤੀ ਗਾਇਨ — ਔਰਤਾਂ ਦੀ ਉਸਤਤਿ ਟੋਲੀ।</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DLvAHy6TPQN/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/harv_ji.jpg" alt="Harv" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Harv</span>
-<span class="ig-card__note">ਪੰਜਾਬੀ ਵਿੱਚ ਯਿਸੂ ਮਸੀਹ ਦੀ ਵਫ਼ਾਦਾਰੀ ਦਾ ਗੀਤ।</span></span>
-</a>
 <a class="ig-card" href="https://www.instagram.com/reel/DOfjYFvEsCQ/" target="_blank" rel="noopener">
 <img class="ig-card__img" src="/images/music-faith/sukh_masih_507.jpg" alt="Sukh Masih" loading="lazy" width="150" height="150">
 <span class="ig-card__text"><span class="ig-card__name">Sukh Masih</span>
@@ -69,7 +64,7 @@ shareImage: /images/music-faith/chandansinghmusics.jpg
 </a>
 </div>
 
-ਮੈਨੂੰ ਹੈਰਾਨੀ ਹੈ ਕਿ ਕਿਹੜੇ ਗੀਤਾਂ ਨੇ ਤੁਹਾਨੂੰ ਸੰਭਾਲਿਆ ਹੈ। ਜਦੋਂ ਸ਼ਬਦ ਖ਼ਤਮ ਹੋ ਗਏ, ਤਾਂ ਕਿਹੜੇ ਗੀਤ ਨੇ ਤੁਹਾਡੇ ਵਿਸ਼ਵਾਸ ਨੂੰ ਫੜਿਆ ਰੱਖਿਆ? ਅਤੇ ਇਨ੍ਹਾਂ ਦਸਾਂ ਵਿੱਚੋਂ ਤੁਸੀਂ ਪਹਿਲਾਂ ਕਿਹੜਾ ਸੁਣੋਗੇ?
+ਮੈਨੂੰ ਹੈਰਾਨੀ ਹੈ ਕਿ ਕਿਹੜੇ ਗੀਤਾਂ ਨੇ ਤੁਹਾਨੂੰ ਸੰਭਾਲਿਆ ਹੈ। ਜਦੋਂ ਸ਼ਬਦ ਖ਼ਤਮ ਹੋ ਗਏ, ਤਾਂ ਕਿਹੜੇ ਗੀਤ ਨੇ ਤੁਹਾਡੇ ਵਿਸ਼ਵਾਸ ਨੂੰ ਫੜਿਆ ਰੱਖਿਆ? ਅਤੇ ਇਨ੍ਹਾਂ ਨੌਂ ਵਿੱਚੋਂ ਤੁਸੀਂ ਪਹਿਲਾਂ ਕਿਹੜਾ ਸੁਣੋਗੇ?
 
 ਮੈਨੂੰ ਦੱਸੋ ਤੁਸੀਂ ਕੀ ਸੁਣ ਰਹੇ ਹੋ। ਮੈਂ ਹਮੇਸ਼ਾ ਨਵੇਂ ਗੀਤਾਂ ਦੀ ਭਾਲ ਵਿੱਚ ਹੁੰਦਾ ਹਾਂ।
 
